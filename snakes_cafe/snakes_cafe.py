@@ -35,7 +35,7 @@ Unicorn Tears
 ** What would you like to order? **
 ***********************************
 """)
-items = ('Wings', 'Cookies', 'Spring Rolls')
+items = ('Wings', 'Cookies', 'Spring Rolls', 'Salmon', 'Steak', 'Meat Tornado', 'A Literal Garden', 'Ice Cream', 'Cake', 'Pie', 'Coffee', 'Tea', 'Unicorn Tears')
 quantity = 0
 menu = dict.fromkeys(items, quantity)
 order = input('> ')
